@@ -9,22 +9,6 @@
 
 程式內容 主要處理 按鈕及滑鼠的判定及繪圖控制 及 BMP檔案修改及輸出輸入
 
-
-## 目錄
-
-- [程式執行](#程式執行)
-- [程式重點內容](#程式重點內容)
-	- [jFileChooser](#jFileChooser)
-	- [jColorChooser](#jColorChooser)
-	- [jScrollPane](#jScrollPane)
-	- [jPanel](#jPanel)
-	- [BMP](#BMP)
-	- [jButton](#jButton)
-- [使用說明](#使用說明)
-- [相關項目](#相關項目)
-- [團隊成員](#團隊成員)
-
-
 ## 程式執行
 
 方式一 : 專案夾檔案的Dist內的 MapGenerator.jar，直接點擊執行。
@@ -76,13 +60,11 @@
 
 ## 使用說明
 
-請參考   [使用說明]( http://34.80.12.180/7th/mapgenerator/-/blob/feature/mapgen/Map%20Generator%20user%20menual.md )
+請參考   [使用說明]( https://github.com/HankGuo93/Game-Maploader-and-Generator/blob/master/mapgenerator-feature-mapgen/Map%20Generator%20user%20menual.md )
 
 ## 相關項目
 
-需搭配 [地圖載入器](http://34.80.12.180/7th/gamebase/-/tree/feature/Map/src/maploader) 使用
+需搭配 [地圖載入器](https://github.com/HankGuo93/Game-Maploader-and-Generator/tree/master/maploaderSample) 使用
 
 ## 團隊成員
 * 呂健羽 郭漢均
-* 戴逸紋 王敬淵
-* 莊偉亨 楊理智
